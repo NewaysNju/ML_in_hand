@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # -*- coding:utf-8 -*-
-# @Author   : niuhui
-# @Email    : niuhui1@jd.com
+# @Author   : neways
+# @Email    : Newaysnju@gmail.com
 # @Time     : 2018/6/19 16:06
 
 def dot(x, y):
